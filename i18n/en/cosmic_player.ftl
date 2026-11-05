@@ -48,6 +48,6 @@ ab-repeat-clear = Clear A-B Repeat
 
 # XDG Metadata
 
-xdg-name = COSMIC Media Player
-xdg-comment = Media player for the COSMIC desktop
+xdg-name = Zinc Media Player
+xdg-comment = Media player for the Zinc desktop
 xdg-keywords = Audio;Film;Movie;Music;Sound;Video;

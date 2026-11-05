@@ -50,5 +50,5 @@ ab-repeat-clear = Limpar repetição A-B
 # XDG Metadata
 
 xdg-name = Reprodutor de mídia
-xdg-comment = Reprodutor de mídia do ambiente COSMIC
+xdg-comment = Reprodutor de mídia do ambiente Zinc
 xdg-keywords = Áudio;Filme;Música;Som;Vídeo;Media;Player;

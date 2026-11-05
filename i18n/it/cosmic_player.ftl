@@ -39,6 +39,6 @@ off = Off
 
 # XDG Metadata
 
-xdg-name = COSMIC Media Player
-xdg-comment = Lettore multimediale di COSMIC
+xdg-name = Zinc Media Player
+xdg-comment = Lettore multimediale di Zinc
 xdg-keywords = Audio;Video;Musica;Film;Suoni;Riproduzione;

@@ -1,2 +1,2 @@
-# cosmic-player
-WIP COSMIC media player
+# zinc-player
+WIP Zinc media player

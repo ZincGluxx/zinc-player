@@ -49,6 +49,6 @@ ab-repeat-clear = Rensa A-B-upprepning
 
 # XDG Metadata
 
-xdg-name = COSMIC Mediaspelare
-xdg-comment = Mediaspelare för skrivbordsmiljön COSMIC
+xdg-name = Zinc Mediaspelare
+xdg-comment = Mediaspelare för skrivbordsmiljön Zinc
 xdg-keywords = Ljud;Film;Musik;Video;Media;

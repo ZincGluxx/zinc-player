@@ -39,6 +39,6 @@ off = Apagado
 
 # XDG Metadata
 
-xdg-name = Reproductor de medios COSMIC
-xdg-comment = Reproductor de medios para el escritorio COSMIC
+xdg-name = Reproductor de medios Zinc
+xdg-comment = Reproductor de medios para el escritorio Zinc
 xdg-keywords = Audio;Película;Música;Vídeo;Sonido;Reproductor;

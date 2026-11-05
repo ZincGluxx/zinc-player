@@ -33,6 +33,6 @@ quit = Ukončiť
 
 # XDG Metadata
 
-xdg-name = Prehrávač Médií COSMIC
-xdg-comment = Prehrávač médií pre pracovné prostredie COSMIC
+xdg-name = Prehrávač Médií Zinc
+xdg-comment = Prehrávač médií pre pracovné prostredie Zinc
 xdg-keywords = audio;film;hudba;video;prehrávač;média;zvuk;
